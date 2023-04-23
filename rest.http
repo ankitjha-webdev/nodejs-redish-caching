@@ -1,0 +1,7 @@
+### Get All Rockets
+
+GET  http://localhost:3000/rockets
+
+### get rocket by id
+
+GET http://localhost:3000/rockets/starship

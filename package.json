@@ -1,0 +1,43 @@
+{
+  "name": "caching-nodejs",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to implement caching in a Node.js application using Redis as the caching layer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.3.6",
+    "express": "^4.18.2",
+    "redis": "^4.6.5",
+    "response-time": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitjha-webdev/nodejs-redish-caching.git"
+    },
+    "keywords": [
+      "Node.js",
+      "Redis",
+      "Caching",
+      "Cache miss",
+      "Cache hit",
+      "Cache key",
+      "Cache value",
+      "Cache expiration",
+      "Redis client",
+      "Redis server",
+      "Cache performance",
+      "Cache implementation",
+      "Cache strategy",
+      "Cache storage",
+      "Cache management",
+      "Cache optimization",
+      "Cache benefits",
+      "Cache drawbacks",
+      "Cache best practices"
+    ],
+  "author": "ankitjha webdev",
+  "license": "MIT"
+}
