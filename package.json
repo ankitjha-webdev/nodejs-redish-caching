@@ -4,7 +4,6 @@
   "description": "This project demonstrates how to implement caching in a Node.js application using Redis as the caching layer.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "dependencies": {
